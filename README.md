@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Salut, je suis Christ Ikonga - Idc4k 👋
+Salut, je suis Christ Ikonga - Aka Idc4k 👋
 
 
 Je suis un technicien, un développeur Fullstack et un passioné de Hacking !!
