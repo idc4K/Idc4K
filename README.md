@@ -7,9 +7,13 @@ Salut, je suis Christ Ikonga - Idc4k 👋
 Je suis un technicien, un développeur Fullstack et un passioné de Hacking !!
 
 🌱 Je suis en train de tout apprendre 🤣
+
 👯 Je cherche à collaborer avec d’autres créateurs de contenu
+
 Objectifs 🥅 2022 : Contribuer davantage aux projets Open Source
-⚡ Fait amusant: J’aime les jeux et la musique /
+
+⚡ Fait amusant: J’aime les jeux et la musique 
+
 Connectez-vous avec moi:
 | LinkedIn: https://www.linkedin.com/in/christ-ikonga-87b3bb19a/
 
