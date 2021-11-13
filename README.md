@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Idc4k FICHIER README.md/
 Salut, je suis Christ Ikonga - Idc4k 👋
 
 
