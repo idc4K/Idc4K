@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**idc4K/Idc4K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Idc4k FICHIER README.md/
+Salut, je suis Christ Ikonga - Idc4k 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis un technicien, un développeur Fullstack et un passioné de Hacking !!
+
+🌱 Je suis en train de tout apprendre 🤣
+👯 Je cherche à collaborer avec d’autres créateurs de contenu
+Objectifs 🥅 2022 : Contribuer davantage aux projets Open Source
+⚡ Fait amusant: J’aime les jeux et la musique /
+Connectez-vous avec moi:
+| LinkedIn: https://www.linkedin.com/in/christ-ikonga-87b3bb19a/
+
+
+Langues et outils :
+Visual Studio CodeVisual Studio CodeVisual Studio CodeVisual Studio CodeVisual Studio CodeVisual Studio CodeVisual Studio CodeVisual Studio CodeVisual Studio CodeVisual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+
+
+
+
