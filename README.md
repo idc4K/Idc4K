@@ -7,7 +7,7 @@ Je suis un technicien, un développeur Fullstack et un passioné de Hacking !!
 
 🌱 Je suis en train de tout apprendre 🤣
 
-👯 Je cherche à collaborer avec d’autres créateurs de contenu
+👯 Je cherche à collaborer avec d’autres Programmeur
 
 Objectifs 🥅 2022 : Contribuer davantage aux projets Open Source
 
