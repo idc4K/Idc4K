@@ -5,7 +5,7 @@
 
 <h1 align="center">Idc4K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=Full+Stack+Web+Dev+Pentester+Dev+Mobile"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=Dev+Web+Pentester+Dev+Mobile"></a>
 </p>
 
 <br>
