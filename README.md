@@ -38,3 +38,7 @@ Langues et outils :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idc4K&show_icons=true&locale=en&layout=compact" alt="idc4K" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idc4K&show_icons=true&locale=en" alt="idc4K" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=idc4K&label=Profile%20views&color=0e75b6&style=flat" alt="idc4K" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idc4K" alt="idc4K" /></a> </p>
