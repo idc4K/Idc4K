@@ -35,3 +35,6 @@ Langues et outils :
 <img src="https://tryhackme-badges.s3.amazonaws.com/idc22.png" alt="TryHackMe">
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idc4K&show_icons=true&locale=en&layout=compact" alt="idc4K" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idc4K&show_icons=true&locale=en" alt="idc4K" /></p>
