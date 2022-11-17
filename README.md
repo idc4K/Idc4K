@@ -45,7 +45,7 @@ Langues et outils :
 <br/>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/idc4K"><img alt="idc4K Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=idc4K&custom_title=abdessalam's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/idc4K"><img alt="idc4K Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=idc4K&custom_title=idc4K%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <hr>
