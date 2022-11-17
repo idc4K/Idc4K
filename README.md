@@ -42,7 +42,14 @@ Langues et outils :
 <img src="https://img.icons8.com/color/50/000000/dart.png"/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/idc22.png" alt="TryHackMe">
 
+<br/>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/idc4K"><img alt="idc4K Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=idc4K&custom_title=abdessalam's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
+<hr>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idc4K&show_icons=true&locale=en&layout=compact" alt="idc4K" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idc4K&show_icons=true&locale=en" alt="idc4K" /></p>
