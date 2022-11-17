@@ -49,7 +49,7 @@ Langues et outils :
 <hr>
 <br/>
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdessalam-Elboukri&theme=algolia" alt="abdessalam" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=idc4K&theme=algolia" alt="idc4K" /></p>
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idc4K&show_icons=true&locale=en&layout=compact" alt="idc4K" /></p>
