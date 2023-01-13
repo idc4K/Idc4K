@@ -22,7 +22,7 @@ Objectifs 🥅 2023 : Contribuer davantage aux projets Open Source
 ⚡ Fait amusant: J’aime les jeux-video,le football et la musique 
 
 Connectez-vous avec moi:
-| LinkedIn: https://www.linkedin.com/in/christ-ikonga-87b3bb19a/
+| LinkedIn: https://www.linkedin.com/in/christevie-ikonga-87b3bb19a/
 
 
 Langues et outils :
