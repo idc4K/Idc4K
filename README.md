@@ -17,7 +17,7 @@ Je suis un technicien, un développeur Fullstack et un passioné de Hacking !!
 
 👯 Je cherche à collaborer avec d’autres Programmeur
 
-Objectifs 🥅 2023 : Contribuer davantage aux projets Open Source
+Objectifs 🥅 2023 : Become pro at Python, Javascript, Java && Cybersecurité 
 
 ⚡ Fait amusant: J’aime les jeux-video,le football et la musique 
 
