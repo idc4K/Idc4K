@@ -17,7 +17,7 @@ Je suis un technicien, un développeur Fullstack et un passioné de Hacking !!
 
 👯 Je cherche à collaborer avec d’autres Programmeur
 
-Objectifs 🥅 2023 : Become pro at Python, Javascript, Java && Cybersecurité 
+Objectifs 🥅 2024 : Become pro at Python, Javascript, and Cybersecurité 
 
 ⚡ Fait amusant: J’aime les jeux-video,le football et la musique 
 
@@ -27,14 +27,12 @@ Connectez-vous avec moi:
 
 Langues et outils :
 <img src="https://img.icons8.com/color/50/000000/django.png"/>
-<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/color/50/000000/html-5--v2.png"/>
 <img src="https://img.icons8.com/color/50/000000/git.png"/>
 <img src="https://img.icons8.com/color/50/000000/python.png"/>
 <img src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/50/000000/c-programming.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
 <img src="https://img.icons8.com/color/50/000000/css3.png"/>
 <img src="https://img.icons8.com/color/50/000000/dart.png"/>
